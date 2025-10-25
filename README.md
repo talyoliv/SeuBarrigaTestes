@@ -43,3 +43,59 @@ B --> C[Gerenciar Contas]
 C --> D[Registrar Movimentação]
 D --> E[Visualizar Resumo Mensal]
 
+```
+---
+
+## 🤖 Automação com Cypress
+**Tecnologias utilizadas**
+
+- Cypress (Testes End-to-End)
+- JavaScript
+- Node.js
+- Faker.js (Geração de dados dinâmicos)
+
+---
+
+## 🧠 Como Rodar o Projeto
+
+```bash
+
+# Clone o repositório
+git clone https://github.com/talyoliv/SeuBarrigaTestes
+
+# Acesse o diretório
+cd SeuBarrigaTestes
+
+# Instale as dependências
+npm install
+
+# Execute o Cypress
+npx cypress open
+
+```
+---
+
+## 🎯 Principais Aprendizados
+
+- Escrita clara e objetiva de casos de teste
+- Priorização baseada em criticidade
+- Report de bugs com evidências
+- Reutilização de código com custom commands
+- Automação com geração de dados dinâmicos
+- Integração contínua com GitHub Actions ✅
+
+---
+
+## ✨ Agradecimento
+
+"Minha gratidão a cada pessoa que contribuiu para este projeto.
+Mais do que uma entrega, ele representa crescimento, colaboração e uma história que agora faz parte de quem nos tornamos."
+
+---
+
+## 📌 Autora
+
+Talita Gomes
+Analista de QA em construção, apaixonada por qualidade, experiência do usuário e evolução contínua.
+
+
