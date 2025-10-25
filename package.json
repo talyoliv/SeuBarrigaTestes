@@ -1,0 +1,18 @@
+{
+  "name": "seubarrigatestes",
+  "version": "1.0.0",
+  "description": "Testes do site Seu Barriga - Projeto Atlântico Avanti Bootcamp 2025.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^15.5.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0"
+  }
+}
